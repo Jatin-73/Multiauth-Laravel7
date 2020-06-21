@@ -1,12 +1,12 @@
 1. run "php artisan migrate"
 
-2. run "php artisan db:seed"
+2. import database file form database/
 
 3. run "php artisan serve"
 
 4. Teacher Login: 
                 email: teacher@gmail.com
-                password: 123456
+                password: jatin123
    Student Login: 
                 email: student@gmail.com
-                password: 123456
+                password: jatin123
