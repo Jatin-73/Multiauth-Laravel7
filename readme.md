@@ -1,10 +1,8 @@
-1. run "php artisan migrate"
+1. import database file form database/
 
-2. import database file form database/
+2. run "php artisan serve"
 
-3. run "php artisan serve"
-
-4. Teacher Login: 
+3. Teacher Login: 
                 email: teacher@gmail.com
                 password: jatin123
    Student Login: 
