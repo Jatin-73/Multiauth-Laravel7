@@ -1,4 +1,4 @@
-1. import database file form database/
+1. import database file form database/students.sql
 
 2. run "php artisan serve"
 
